@@ -110,6 +110,7 @@ No. PhotoShelter's built-in AI Assistant works inside PhotoShelter. Cotlet.dev l
 - [PhotoShelter on Cotlet.dev](https://cotlet.dev/integrations/photoshelter-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=photoshelter&utm_content=find)
 - [PyPI package photoshelter-mcp](https://pypi.org/project/photoshelter-mcp/)
 - [Odel](https://odel.app/modules/cotlet/photoshelter)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/photoshelter/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-photoshelter-to-ai-agents-guide)
 
 ## Also works with
